@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mafintosh/cyclist",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "standard && brittle test.js"
   },
