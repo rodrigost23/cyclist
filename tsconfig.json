@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./",
+    "target": "ES5",
+    "module": "CommonJS",
+    "declaration": true
+  },
+  "include": ["./index.ts"],
+  "exclude": ["./*.js"]
+}
